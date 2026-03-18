@@ -1,5 +1,14 @@
-p {
-    color: rgb(0, 0, 0);
-    font-family: Verdana; DejaVu Sans; sans-serif;
+.odd {
     background-color: rgba(255, 179, 251, 0.5);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }   
+
+.adjust-font-size { 
+    font-size: 24px;
+}
+
+#two {
+    color: rgb (blue);
+    font-size: 36px;
+}
+
